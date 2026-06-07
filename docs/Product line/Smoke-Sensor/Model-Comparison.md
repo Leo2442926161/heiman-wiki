@@ -1,0 +1,33 @@
+---
+sidebar_position: 2
+---
+
+# Model Comparison
+
+## Model Comparison
+
+| Model | Protocol | Certification | Power | Market | Usage Suggestions |
+|------|------|------|------|------|----------|
+| [HS1SA-E](../../无线协议/Zigbee/HS1SA-E-Smoke-Alarm-Zigbee) | Zigbee | EN 14604 | CR123A | EU | Integrate with Zigbee2MQTT/ZHA, Home Assistant automation — auto-turn on lights + push notification when smoke detected |
+| [HS1SA-Z](../../无线协议/Zwave/HS1SA-Z-Smoke-Alarm-Z-Wave) | Z-Wave | EN 14604 | CR123A | EU | Connect to SmartThings/Hubitat, arm with Z-Wave door sensor, smoke alarm auto-notify when away |
+| [HS1SA-M](../../无线协议/Matter/HS1SA-M-Smoke-Alarm-Matter) | Matter over Thread | EN 14604 | CR123A | Global | Native Apple Home/Google Home integration, no dedicated gateway needed, low-latency Thread local alarm linkage |
+| [HS3SA](../../无线协议/Zigbee/HS3SA-Smoke-Alarm-Zigbee) | Zigbee | EN 14604 | CR123A | EU | Use with Heiman HS6GW gateway, multi-device scene linkage, ideal for Heiman ecosystem users |
+| [HS8SA](../../无线协议/Zigbee/HS8SA-Smoke-Alarm-Zigbee) | Zigbee / Wi-Fi | UL 217 | Battery/Mains | US | US market-dedicated, UL certified, meets local fire codes, supports WiFi direct or Zigbee gateway |
+| [S1 Series](../../无线协议/Sub1G(long distance range)/S1-Series-Standalone-Smoke-Alarm-Sub-1G) | Sub-1G | EN 14604 | Battery | Universal | Standalone-interconnected, no gateway or internet needed, Sub-1G wireless interconnection between units, ideal for simple rentals |
+
+## Scenario Recommendations
+
+| Scenario | Recommended Model | Automation Scheme |
+|------|----------|----------|
+| Deep smart home integration | HS1SA-E / HS1SA-M | HA automation: smoke alarm → turn on all lights → unlock door → close gas valve → push notification |
+| Apple HomeKit users | HS1SA-M | Native Matter integration, HomePod as Thread border router, automatic scene triggers |
+| EU/US standard requirements | HS1SA-E (CE) / HS8SA (UL) | Meets local fire certifications, insurance compliance |
+| No gateway / low cost | S1 Series | Buy and use, Sub-1G interconnection between units, mutual triggering on alarm |
+| Existing Z-Wave system | HS1SA-Z | Use with existing Z-Wave gateway like Hubitat/SmartThings |
+
+## Selection Guide
+
+- **EU market**: [HS1SA-E](../../无线协议/Zigbee/HS1SA-E-Smoke-Alarm-Zigbee) (Zigbee) or [HS3SA](../../无线协议/Zigbee/HS3SA-Smoke-Alarm-Zigbee) (Zigbee), choose [HS1SA-Z](../../无线协议/Zwave/HS1SA-Z-Smoke-Alarm-Z-Wave) for Z-Wave
+- **US market**: [HS8SA](../../无线协议/Zigbee/HS8SA-Smoke-Alarm-Zigbee) (UL 217 certified)
+- **Cross-platform Matter**: [HS1SA-M](../../无线协议/Matter/HS1SA-M-Smoke-Alarm-Matter) (Matter over Thread)
+- **Standalone scenario**: [S1 Series](../../无线协议/Sub1G(long distance range)/S1-Series-Standalone-Smoke-Alarm-Sub-1G) (no gateway needed)

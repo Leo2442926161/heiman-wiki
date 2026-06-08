@@ -2,42 +2,42 @@
 sidebar_position: 3
 ---
 
-# 技术参数
+# Technical Specifications
 
-以下为海曼 Sub-1G 远距离系列产品的通用技术参数。
+The following are the general technical specifications of the Heiman Sub-1G long-distance series products.
 
-## 无线参数
+## Wireless Parameters
 
-| 参数 | 值 |
+| Parameter | Value |
 |------|-----|
-| 工作频段 | 433 MHz / 868 MHz / 915 MHz（视市场区域） |
-| 调制方式 | FSK / OOK |
-| 传输速率 | 约 10~100 kbps（视频段与配置） |
-| 网络拓扑 | 星型 / 点对点 / 互联组网 |
-| 通信距离 | 空旷环境约 1~3 公里（视频段与功率） |
-| 组网容量 | 单组最多支持 50+ 节点 |
+| Operating Frequency Band | 433 MHz / 868 MHz / 915 MHz (depending on region) |
+| Modulation | FSK / OOK |
+| Data Rate | Approx. 10~100 kbps (depending on frequency band and configuration) |
+| Network Topology | Star / Point-to-Point / Mesh networking |
+| Communication Range | Approx. 1~3 km in open area (depending on frequency band and power) |
+| Network Capacity | Supports up to 50+ nodes per group |
 
-## 区域频段分配
+## Regional Frequency Bands
 
-| 区域 | 常用频段 |
+| Region | Common Frequency |
 |------|----------|
-| 中国 | 433 MHz |
-| 欧洲 | 868 MHz |
-| 北美 | 915 MHz |
+| China | 433 MHz |
+| Europe | 868 MHz |
+| North America | 915 MHz |
 
-## 电气与功耗
+## Electrical & Power
 
-| 参数 | 值 |
+| Parameter | Value |
 |------|-----|
-| 供电方式 | 电池供电（CR123A / AA 锂电池） |
-| 电池续航 | 约 3~5 年（视上报频率） |
-| 发射功率 | ≤ 10 mW（+10 dBm），符合 SRD 法规 |
-| 待机功耗 | 微安级，极低 |
-| 接收灵敏度 | 约 -110 dBm ~ -120 dBm |
+| Power Supply | Battery powered (CR123A / AA lithium battery) |
+| Battery Life | Approx. 3~5 years (depending on reporting frequency) |
+| Transmit Power | ≤ 10 mW (+10 dBm), compliant with SRD regulations |
+| Standby Power | Microampere level, ultra-low |
+| Receive Sensitivity | Approx. -110 dBm ~ -120 dBm |
 
-## 环境参数
+## Environmental Specifications
 
-| 参数 | 值 |
+| Parameter | Value |
 |------|-----|
-| 工作温度 | -10°C ~ +55°C |
-| 工作湿度 | ≤ 95% RH（无凝结） |
+| Operating Temperature | -10°C ~ +55°C |
+| Operating Humidity | ≤ 95% RH (non-condensing) |

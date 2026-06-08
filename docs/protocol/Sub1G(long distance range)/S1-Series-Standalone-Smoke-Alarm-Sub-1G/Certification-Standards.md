@@ -2,9 +2,9 @@
 sidebar_position: 9
 ---
 
-# 认证标准
+# Certification Standards
 
-S1 系列已通过以下认证：
+The S1 series has obtained the following certifications:
 
-- **EN 14604** — 烟雾报警器欧洲标准，参见 [EN 欧洲标准](../../../../standard/EN-European-Standards.md)
-- **CE** — 欧盟符合性声明
+- **EN 14604** — European standard for smoke alarms, see [EN European Standards](../../../../standard/EN-European-Standards.md)
+- **CE** — EU Declaration of Conformity

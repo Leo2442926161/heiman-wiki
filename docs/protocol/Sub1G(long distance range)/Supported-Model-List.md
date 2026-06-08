@@ -2,29 +2,29 @@
 sidebar_position: 2
 ---
 
-# 支持型号列表
+# Supported Model List
 
-海曼 Sub-1G 远距离系列产品主要面向大范围独立组网场景，无需网关即可实现设备间互联互通。
+Heiman Sub-1G long-distance series products are mainly designed for large-scale independent networking scenarios, enabling interconnection between devices without the need for a gateway.
 
-## 独立式烟雾报警器（S1 系列）
+## Standalone Smoke Alarm (S1 Series)
 
-| 型号 | 产品名称 | 说明 |
+| Model | Product Name | Description |
 |------|----------|------|
-| S1-SA | 独立式烟雾报警器（Sub-1G） | 基础型，支持无线互联 |
-| S1-SA-P | 独立式烟雾报警器（Sub-1G） | 带拍照功能版本 |
-| S1-SA-T | 独立式烟雾报警器（Sub-1G） | 高温联动版本 |
-| S1-SA-RF | 独立式烟雾报警器（射频互联型） | 射频组网版本 |
+| S1-SA | Standalone Smoke Alarm (Sub-1G) | Basic type, supports wireless interconnection |
+| S1-SA-P | Standalone Smoke Alarm (Sub-1G) | Version with photo-capture function |
+| S1-SA-T | Standalone Smoke Alarm (Sub-1G) | High-temperature linkage version |
+| S1-SA-RF | Standalone Smoke Alarm (RF Interconnection) | RF networking version |
 
-## 互联配件
+## Interconnection Accessories
 
-| 型号 | 产品名称 | 说明 |
+| Model | Product Name | Description |
 |------|----------|------|
-| S1-RM | 无线中继器（Sub-1G） | 扩展通信距离 |
-| S1-RC | 遥控器（Sub-1G） | 用于测试 / 静音 / 复位 |
+| S1-RM | Wireless Repeater (Sub-1G) | Extends communication range |
+| S1-RC | Remote Controller (Sub-1G) | Used for test / silence / reset |
 
-## 功能特点
+## Features
 
-- **独立工作**：无需网关、无需互联网，设备间直接无线互联
-- **互联报警**：任一设备触发报警，同组所有设备同步报警
-- **超远距离**：空旷环境下通信距离可达 1~3 公里
-- **超低功耗**：电池供电，续航可达 3~5 年
+- **Independent Operation**: No gateway or internet required, direct wireless interconnection between devices
+- **Interconnected Alarm**: When any device triggers an alarm, all devices in the same group alarm simultaneously
+- **Ultra-Long Range**: Communication range up to 1~3 km in open environment
+- **Ultra-Low Power Consumption**: Battery powered, battery life up to 3~5 years

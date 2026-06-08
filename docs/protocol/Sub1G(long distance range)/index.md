@@ -2,29 +2,29 @@
 sidebar_position: 4
 ---
 
-# Sub-1G（远距离通信）
+# Sub-1G (Long Distance Communication)
 
-Sub-1G 是一种工作在 1 GHz 以下频段的无线通信技术，具有超远传输距离和极低功耗的特点，非常适合需要大范围覆盖的物联网场景。
+Sub-1G is a wireless communication technology operating in frequency bands below 1 GHz, featuring ultra-long transmission distance and extremely low power consumption, making it ideal for IoT scenarios requiring wide-area coverage.
 
-## 特点
+## Features
 
-| 特性 | 说明 |
-|------|------|
-| 工作频段 | 433 MHz / 868 MHz（欧盟）/ 915 MHz（美国） |
-| 传输距离 | 开阔环境可达 1-3 公里 |
-| 穿透能力 | 优于 2.4 GHz，对墙体障碍物穿透力强 |
-| 功耗 | 极低，电池续航可达 5-10 年 |
-| 传输速率 | 低（适合小数据量场景） |
+| Feature | Description |
+|---------|-------------|
+| Operating Frequency | 433 MHz / 868 MHz (EU) / 915 MHz (US) |
+| Transmission Distance | 1-3 km in open environments |
+| Penetration Capability | Better than 2.4 GHz, strong penetration through wall obstacles |
+| Power Consumption | Extremely low, battery life up to 5-10 years |
+| Data Rate | Low (suitable for small data volume scenarios) |
 
-## 应用场景
+## Application Scenarios
 
-- **独立式烟雾/CO 报警器**：楼栋内跨楼层互联
-- **大型建筑消防系统**：商场、酒店、学校
-- **智慧养老社区**：跨单元紧急呼叫
-- **Sub-1G + Wi-Fi 网关**：子设备通过 Sub-1G 通信，网关连接云端
+- **Standalone Smoke/CO Alarm**: Cross-floor interconnectivity within buildings
+- **Large Building Fire Protection Systems**: Shopping malls, hotels, schools
+- **Smart Senior Care Communities**: Cross-unit emergency calling
+- **Sub-1G + Wi-Fi Gateway**: Sub-devices communicate via Sub-1G, gateway connects to the cloud
 
-## 海曼 Sub-1G 产品
+## Heiman Sub-1G Products
 
-海曼拥有多年的 Sub-1G 无线消防产品经验，包括独立式烟雾报警器 S1 系列等。这些设备可在没有互联网的情况下实现设备间互联组网。
+Heiman has years of experience in Sub-1G wireless fire safety products, including the standalone smoke alarm S1 series. These devices can interconnect and form networks without internet access.
 
-> **注意**：Sub-1G 多用于海曼的消防安防产品线，智能家居产品线以 Zigbee / Matter 为主。
+> **Note**: Sub-1G is primarily used in Heiman's fire safety and security product lines, while the smart home product line mainly uses Zigbee / Matter.

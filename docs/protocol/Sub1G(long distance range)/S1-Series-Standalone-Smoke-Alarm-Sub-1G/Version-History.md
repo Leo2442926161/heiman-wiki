@@ -2,8 +2,8 @@
 sidebar_position: 10
 ---
 
-## 版本历史
+## Version History
 
-### v1.0.0（2026-06-06）
-- 初始版本
-- 涵盖产品概述、技术规格、功能特性
+### v1.0.0 (2026-06-06)
+- Initial version
+- Covers product overview, technical specifications, and features

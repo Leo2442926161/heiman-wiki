@@ -4,59 +4,59 @@ sidebar_position: 4
 
 # S1-Series-Standalone-Smoke-Alarm-Sub-1G
 
-## 概述
+## Overview
 
-S1 系列是海曼推出的独立式 Sub-1G 烟雾报警器，工作在 433 MHz / 868 MHz 频段，采用光电式感烟技术，通过 EN 14604 认证。无需网关、无需互联网，设备间通过 Sub-1G 射频直接互联，任一设备触发报警时同组所有设备同步报警，适用于楼栋、商场、酒店等大范围消防联动场景。
+The S1 series is a standalone Sub-1G smoke alarm launched by Heiman, operating in the 433 MHz / 868 MHz bands, using photoelectric smoke detection technology, certified to EN 14604. No gateway or internet required — devices interconnect directly via Sub-1G RF. When any device triggers an alarm, all devices in the same group alarm simultaneously. Suitable for large-scale fire linkage scenarios such as buildings, shopping malls, hotels, etc.
 
-## 技术规格
+## Technical Specifications
 
-| 参数 | 值 |
+| Parameter | Value |
 |------|-----|
-| 通信协议 | 433 MHz / 868 MHz Sub-1G（视市场区域） |
-| 传感器类型 | 红外光电式 |
-| 报警声压 | ≥85 dB（3 米） |
-| 供电方式 | 电池供电（CR123A / AA 锂电池） |
-| 电池寿命 | ≥ 5 年 |
-| 通信距离 | 空旷环境约 1~3 公里 |
-| 组网容量 | 单组最多支持 50+ 节点 |
-| 互联方式 | 无线射频互联（无需网关） |
-| 工作温度 | -10°C ~ +55°C |
-| 工作湿度 | ≤ 95% RH |
-| 安装方式 | 吸顶安装 |
+| Communication Protocol | 433 MHz / 868 MHz Sub-1G (depending on market region) |
+| Sensor Type | Infrared Photoelectric |
+| Alarm Sound Pressure | ≥85 dB (at 3 m) |
+| Power Supply | Battery powered (CR123A / AA lithium battery) |
+| Battery Life | ≥ 5 years |
+| Communication Range | Approximately 1–3 km in open area |
+| Network Capacity | Up to 50+ nodes per group |
+| Interconnection Method | Wireless RF interconnection (no gateway required) |
+| Operating Temperature | -10°C ~ +55°C |
+| Operating Humidity | ≤ 95% RH |
+| Installation Method | Ceiling mounting |
 
-## 系列型号
+## Model Variants
 
-| 型号 | 说明 |
+| Model | Description |
 |------|------|
-| S1-SA | 基础型，支持无线互联 |
-| S1-SA-P | 带拍照功能版本 |
-| S1-SA-T | 高温联动版本 |
-| S1-SA-RF | 射频互联型 |
+| S1-SA | Basic model, supports wireless interconnection |
+| S1-SA-P | Version with photo capture |
+| S1-SA-T | High-temperature linkage version |
+| S1-SA-RF | RF interconnection type |
 
-## 功能特性
+## Features
 
-- 光电式烟雾检测，可探测慢燃和明火产生的烟雾
-- 无线互联报警：同一网络内任一设备触发，所有设备同步声光报警
-- 独立工作模式：无需网关、无需互联网，设备间直接通信
-- 85 dB 高声光报警
-- 低电量提醒
-- 自检功能（一键测试）
-- 防拆报警
-- 支持远程静音
-- 超低功耗设计，电池续航 5 年以上
+- Photoelectric smoke detection, capable of detecting smoke from smoldering and open flames
+- Wireless interconnected alarm: when any device in the same network is triggered, all devices sound visual and audible alarms simultaneously
+- Standalone operation mode: no gateway or internet required, devices communicate directly
+- 85 dB high sound and light alarm
+- Low battery reminder
+- Self-test function (one-key test)
+- Tamper alarm
+- Supports remote silence
+- Ultra-low power design, battery life over 5 years
 
-## 认证标准
+## Certification Standards
 
-- EN 14604（烟雾报警器欧洲标准）
+- EN 14604 (European standard for smoke alarms)
 - CE / RED
-- CPR（欧盟建筑产品法规）
+- CPR (EU Construction Products Regulation)
 
-## 适用配件
+## Compatible Accessories
 
-- S1-RM 无线中继器（扩展通信距离）
-- S1-RC 遥控器（测试 / 静音 / 复位）
+- S1-RM Wireless Repeater (extends communication range)
+- S1-RC Remote Control (test / silence / reset)
 
-## 关联文档
+## Related Documents
 
-- 参见 [产品类型: 烟雾传感器](../../../Product line/Smoke-Sensor/index.md)
-- 参见 [Sub-1G 技术参数](../Technical-Specifications.md)
+- See [Product Type: Smoke Sensor](../../../Product%20line/Smoke-Sensor/index.md)
+- See [Sub-1G Technical Specifications](../Technical-Specifications.md)

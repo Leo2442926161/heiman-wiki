@@ -1,15 +1,8 @@
-heiman:
-  name: Heiman Technology
-  title: Shenzhen Heiman Technology Co., Ltd.
-  url: https://www.heiman.com.cn
-  image_url: https://www.heiman.com.cn/favicon.ico
+leo:
+  name: Leo
+  title: Heiman Documentation Maintainer
+  url: https://github.com/Leo2442926161
+  image_url: /img/leoprofile.jpg
   page: true
   socials:
-    x: heimantech
-    linkedin: heimantech
-
-heiman_editor:
-  name: Heiman Editor
-  title: Heiman Technology Content Team
-  url: https://www.heiman.com.cn
-  page: true
+    github: Leo2442926161

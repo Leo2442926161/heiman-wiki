@@ -27,7 +27,6 @@ Since I have an engineering background, if you have a great idea or suggestion, 
 
 
 
-# About Heiman
 
 ## About Heiman
 

@@ -2,7 +2,10 @@
 sidebar_position: 1
 ---
 
-# Why do I maintain this Heiman Wiki?
+# Introduction
+
+
+## Why do I maintain this Heiman Wiki?
 To give our users a better experience and reduce their learning curve, I wanted to build this wiki. It will introduce Heiman's products, supported platforms, and more.
 
 All in all, we don't just want to build the great products you are looking for—we want to provide clear, easy-to-read documentation as well.
@@ -11,7 +14,7 @@ Hopefully, when you think of smoke alarms, Heiman comes to mind. And when you th
 
 
 
-# Who is maintaining this Wiki?
+## Who is maintaining this Wiki?
 This is Leo, a Senior Engineer with 13 years of experience in embedded systems and wireless development. I specialize in Zigbee, Matter, BLE, Sub-1G, and Linux development, with a deep background in C/C++ and SCH/PCB design.
 
 Besides my engineering work, I’m a DIYer and tinkerer at heart. I love building smart devices and creating new things.
@@ -31,7 +34,6 @@ Since I have an engineering background, if you have a great idea or suggestion, 
 Shenzhen Heiman Technology Co., Ltd. (Heiman) was founded in 2005 and is a high-tech enterprise focused on the smart home security field. Headquartered in Shenzhen, China, with over 20 years of industry experience, its products are exported to Europe, Americas, Asia, and other regions worldwide.
 
 ## Core Business
-
 Heiman Technology's mission is "Safeguard with craftsmanship, warm life with technology." Its main business areas include:
 
 - **Smart Fire Safety**: Smoke alarms, carbon monoxide alarms, gas detectors, heat detectors, etc.

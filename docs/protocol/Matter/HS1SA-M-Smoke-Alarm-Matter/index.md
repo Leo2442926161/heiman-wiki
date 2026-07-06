@@ -57,6 +57,6 @@ Requires a Thread Border Router, such as Apple HomePod mini, Google Nest Hub 2nd
 
 ## Related Links
 
-- [Product Type: Smoke Sensor](../../../Product line/Smoke-Sensor/index.md)
+- [Product Type: Smoke Sensor](../../../product_line/Smoke-Sensor/index.md)
 - [Matter Technical Parameters](../Technical-Specifications.md)
 - [Supported Model List](../Supported-Model-List.md)

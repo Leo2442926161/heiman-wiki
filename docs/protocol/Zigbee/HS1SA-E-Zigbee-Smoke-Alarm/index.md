@@ -45,4 +45,4 @@ The HS1SA-E is Heiman's standard Zigbee smart smoke alarm designed for the EU ma
 
 ## Related Documents
 
-- See [Product Type: Smoke Sensor](../../../Product line/Smoke-Sensor/index.md)
+- See [Product Type: Smoke Sensor](../../../product_line/Smoke-Sensor/index.md)

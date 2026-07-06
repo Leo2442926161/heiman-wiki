@@ -2,6 +2,28 @@
 sidebar_position: 1
 ---
 
+# Why do I maintain this Heiman Wiki?
+To give our users a better experience and reduce their learning curve, I wanted to build this wiki. It will introduce Heiman's products, supported platforms, and more.
+
+All in all, we don't just want to build the great products you are looking for—we want to provide clear, easy-to-read documentation as well.
+
+Hopefully, when you think of smoke alarms, Heiman comes to mind. And when you think of Heiman, you'll think of Leo!
+
+
+
+# Who is maintaining this Wiki?
+This is Leo, a Senior Engineer with 13 years of experience in embedded systems and wireless development. I specialize in Zigbee, Matter, BLE, Sub-1G, and Linux development, with a deep background in C/C++ and SCH/PCB design.
+
+Besides my engineering work, I’m a DIYer and tinkerer at heart. I love building smart devices and creating new things.
+
+I have been working at Heiman for 8 years, so I know most of our products inside and out—especially when it comes to Zigbee and Matter.
+
+I will be updating this wiki in my spare time; progress might be slow, but it will be continuous!
+
+Since I have an engineering background, if you have a great idea or suggestion, please feel free to drop me a line.
+
+
+
 # About Heiman
 
 ## About Heiman
@@ -19,24 +41,16 @@ Heiman Technology's mission is "Safeguard with craftsmanship, warm life with tec
 
 ## Technical Strength
 
-Heiman is an early adopter and promoter of the **Matter protocol**, launching the world's first Matter-certified carbon monoxide alarm. Products support multiple wireless protocols:
+Heiman is an early adopter and promoter of the **Matter protocol**, launching the world's first Matter-certified carbon monoxide alarm and smoke alarm. Products support multiple wireless protocols:
 
 - **Matter over Thread** — Latest smart home interconnect standard
 - **Zigbee 3.0** — Mature low-power Mesh network
 - **Z-Wave** — Mainstream smart home protocol in Europe and America
 - **Wi-Fi** — Direct connection, no gateway required
 - **Sub-1G** — Ultra-long range low-power communication
-- **wM-Bus** — Wireless metering bus
+
 
 ## Ecosystem Partnerships
 
-Heiman products are fully integrated with mainstream smart home platforms including Home Assistant, Apple HomeKit, Google Home, Amazon Alexa, SmartThings, Homey, OpenHAB, Zigbee2MQTT, ZHA, Tuya, etc., and have obtained official **Works with Home Assistant** certification.
+Heiman products are fully integrated with mainstream smart home platforms including Home Assistant, Apple HomeKit, Google Home, Amazon Alexa, SmartThings, Homey, OpenHAB, Zigbee2MQTT, ZHA, Tuya, etc., and have obtained official **Works with Home Assistant**, **Works with Apple Home**, **Works with Google Home**, **Works with Smartthings**, **Works with Homey** certification.
 
-## Certifications & Qualifications
-
-- Works with Home Assistant Official Certified Partner (2026)
-- Matter Certified Devices
-- EN 14604 (Smoke Alarm European Standard)
-- EN 50291 (Carbon Monoxide Alarm European Standard)
-- UL 217 / UL 2034 (US Standards)
-- ISO 9001 Quality Management System Certification

@@ -18,6 +18,7 @@ The following are the general technical specifications for Heiman Zigbee devices
 | Communication Range | Approx. 10~30 m indoors (depending on wall obstacles) |
 | Encryption | AES-128-CCM |
 
+
 ## Compatibility
 
 | Item | Description |

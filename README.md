@@ -52,7 +52,6 @@ If you encounter issues, please submit a GitHub Issue:
 2. Select the **"Bug Report"** template
 3. Fill in:
    - The page path where the error occurred
-   - Expected behavior vs. actual behavior
    - Screenshots (optional)
    - Browser and language version
 4. Submit the Issue

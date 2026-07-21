@@ -7,15 +7,26 @@ sidebar_position: 2
 Heiman offers the industry's broadest Zigbee product line. Below are the released supported models.
 
 ## Smoke Alarm
+### Zigbee protocol
 | Model | Product Name | Description |
 |-------|--------------|-------------|
-| HS1SA-E | Smart Smoke Alarm (Zigbee) | EU Version |
-| HS1SA-E Plus | Smart Smoke Alarm (Zigbee) | EU Version |
-| HS3SA | Smart Smoke Alarm (Zigbee) | 3rd Gen Smoke Alarm |
-| HS8SA | Smart Smoke Alarm (Zigbee) | CN Version |
+| HS1SA-E | Smart Smoke Alarm | EU Version |
+| HS1SA-E Plus | Smart Smoke Alarm | EU Version |
+| S1-TL | Smart Smoke Alarm | US and EN version |
+
+
+### Matter Over Thread
+| Model | Product Name | Description |
+|-------|--------------|-------------|
+| HS1SA-M | Smart Smoke Alarm | EU Version |
+| HS2SA-M | Smart Smoke Alarm | EU Version |
+| S1-M | Smart Smoke Alarm | UL version |
+| S1-TM | Smart Smoke Alarm | US and EN version |
+
 
 
 ## Nature GAS Alarm
+
 | HS1CA-E | Smart Carbon Monoxide Alarm (Zigbee) | EU Version |
 | HS1CA-Z | Smart Carbon Monoxide Alarm (Zigbee) | China Version |
 | HS1CG | Combustible Gas Detector (Zigbee) | Natural Gas / LPG |

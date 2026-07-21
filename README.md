@@ -1,5 +1,7 @@
 # Heiman Technology Wiki
-Heiman Technology official knowledge base. Thank you for using and viewing it.
+Heiman Technology unofficial knowledge base. Thank you for using and viewing it.
+
+
 
 
 ## Supported Languages
@@ -24,6 +26,8 @@ Heiman Technology official knowledge base. Thank you for using and viewing it.
 
 ## Contribution Guide
 We welcome community contributions! Here's how to get involved.
+
+
 
 ### 📝 Contribute Documentation
 
@@ -59,6 +63,7 @@ If you encounter issues, please submit a GitHub Issue:
 ### 💬 Article Comments
 
 This site provides commenting functionality based on GitHub Discussions. Visit the [Discussions page](https://github.com/Leo2442926161/heiman-wiki/discussions) to join the conversation.
+
 
 
 ### Translation Improvements

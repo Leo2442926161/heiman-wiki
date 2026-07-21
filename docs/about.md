@@ -8,8 +8,6 @@ sidebar_position: 7
 
 - **Website**: [https://www.heiman.com.cn](https://www.heiman.com.cn)
 - **Global Site**: [https://www.heimantech.com](https://www.heimantech.com)
-- **Hotline**: 400-8959-500
-- **Enterprise Sales**: 18123928516 (WeChat same number)
 - **Email**: inquiry@heiman.com.cn
 
 ## Social Media
